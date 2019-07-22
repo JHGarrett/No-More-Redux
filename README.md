@@ -1,4 +1,4 @@
-# hookedGithub
+# No More Redux
 
 ## About 
 A set of harmless React Hooks. Bye-Bye Redux!
