@@ -1,7 +1,7 @@
 # hookedGithub
 
 ## About 
-A set of harmless React Hooks.
+A set of harmless React Hooks. Bye-Bye Redux!
 This is a refactored app from my github finder using React Hooks and the Context API to store state.
 
 
