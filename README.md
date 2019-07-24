@@ -6,7 +6,7 @@ This is a refactored app from my github finder using React Hooks and the Context
 
 
 ## Demo
-Demo site:
+Demo site: [No More Redux](https://jovial-payne-928ff0.netlify.com/)
 
 ## Build Tools
 React, and React Hooks
